@@ -1,0 +1,11 @@
+.venv/
+__pycache__/
+*.pyc
+
+# Private signing keys must never be uploaded.
+keys/
+
+# IDE files except the useful run configuration can stay local.
+.idea/
+!.idea/runConfigurations/
+!.idea/runConfigurations/Crypto_Project.xml

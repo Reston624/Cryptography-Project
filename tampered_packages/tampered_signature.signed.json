@@ -1,0 +1,19 @@
+{
+  "format": "SimpleSignedDocument-v1",
+  "signer_id": "ehab",
+  "signer_name": "Ehab Abdelaziz",
+  "organization": "Security Course Project",
+  "country": "EG",
+  "timestamp_utc": "2026-04-27T18:47:31.444457+00:00",
+  "certificate_valid_days": 365,
+  "document_name": "hash.txt",
+  "document_base64": "VGhpcyBpcyB0aGUgb3JpZ2luYWwgZG9jdW1lbnQgdXNlZCBmb3IgZGlnaXRhbCBzaWduYXR1cmUgdGVzdGluZy4NCg==",
+  "document_sha256_hex": "babf85ca6760941d4555d90849fb96ff3005563b5a3a5b472053ec2e17ea7d9e",
+  "signature_base64": "KP1EpvWGv+b9uP4LDq/Ava1v/081GhPpkSzQiKsOLVzH4MBGlOgQidYiJzdKGrAK+dPNz8zssxmGFG6jwZnhmwiARTM5ALe2qk7yH2JBMNrbXm4wiVgvCAUHuFQf5lP0YShC6vBLjB3dwR0rzu7Gab57ZnxrQDeo/2jzpHKb3o9aiEceWnu3Vq8l4ibE1/OETO2fdY6WdSJ5LO7/OGoGVmU2sZ5gUnCyoUEAUJFkkuimsUCaItuZ/6vMfdSHhjtFdWXr0cmLJSCcyn73DXHwdYTHTuDHolc8RBckf1VB+y4PACbMjwrJvEwcJhyjmgJUkPg0NKO8/ilbjxxR9IvQJg==",
+  "algorithm_info": {
+    "hash": "SHA-256",
+    "signature": "RSA-PSS",
+    "rsa_key_size": 2048,
+    "public_key_file": "ehab_public_key.pem"
+  }
+}
